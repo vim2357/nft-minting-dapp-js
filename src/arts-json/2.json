@@ -1,0 +1,20 @@
+{
+    "name": "NFT Collection NFT #2",
+    "description": "Net2Dev our first Web3 dApp NFT Collection. This unique collection 1 of 1000 NFTs available",
+    "image": "ipfs://QmQFWK3cmAndNGhmJM7ZJA9DFPEygRBS4Uq5NqGf2u8TTu/2.png",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light-yellow"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Scarlet"
+      }
+    ]
+  }
